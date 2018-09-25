@@ -7,11 +7,11 @@ int main()
 	double hours, rate, pay;
 	
 	// Get the number of hours worked.
-	cout << "How many hours did you work? ";
+	cout << "How many hours did you work? "; //puts out the question
 	cin >> hours; //put in variable
 	
 	//Get the hourly pay rate
-	cout << "How much do you get paid per hour? ";
+	cout << "How much do you get paid per hour? "; //puts out the question
 	cin >> rate; //put in variable
 	
 	//calculate the pay.
